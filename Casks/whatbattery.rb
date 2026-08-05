@@ -1,6 +1,6 @@
 cask "whatbattery" do
-  version "1.4.1"
-  sha256 "bc205a7b89731e38a8d56e1a96598dc9057102ea473c8fe88e5938f60be0b4b0"
+  version "1.5.0"
+  sha256 "f655ed7013f08d347d088f43791878d2faa2c70efe458470fb61431e89fe30d0"
 
   url "https://github.com/darrylmorley/whatbattery/releases/download/v#{version}/WhatBattery.zip",
       verified: "github.com/darrylmorley/whatbattery/"
