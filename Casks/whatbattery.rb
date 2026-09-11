@@ -2,8 +2,7 @@ cask "whatbattery" do
   version "1.6.5"
   sha256 "ff8ed613b4a817a94efd09da46048c6eaf855e8fcce66ff5b493f07bf33aede1"
 
-  url "https://github.com/darrylmorley/whatbattery/releases/download/v#{version}/WhatBattery.zip",
-      verified: "github.com/darrylmorley/whatbattery/"
+  url "https://github.com/darrylmorley/whatbattery/releases/download/v#{version}/WhatBattery.zip"
   name "WhatBattery"
   desc "Menu bar app for battery health and live power"
   homepage "https://github.com/darrylmorley/whatbattery"
